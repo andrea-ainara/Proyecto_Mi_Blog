@@ -4,12 +4,13 @@
     list-style: none;
 }
 
+
 .title{
-    font-size: 80px;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+        font-size: 80px;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
 }
 
 body{
@@ -17,7 +18,7 @@ body{
     background-color: rgb(34, 34, 34);
 }
 header{
-    background-color: rgb(219, 115, 18);
+    background-color: #db7312;
     padding: 20px;
 }
 
