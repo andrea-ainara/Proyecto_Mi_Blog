@@ -2,6 +2,8 @@
     margin: 0;
     padding: 0;
     list-style: none;
+    font-family: Arial, Helvetica, sans-serif
+
 }
 
 
@@ -15,10 +17,10 @@
 
 body{
     color: white;
-    background-color: rgb(34, 34, 34);
+    background-color: #324140;
 }
 header{
-    background-color: #db7312;
+    background-color: #d57c29;
     padding: 20px;
 }
 
@@ -39,7 +41,7 @@ main{
             text-decoration: none;
     }
     .card{
-        background-color: rgb(94, 94, 94);
+        background-color: #527e7e;
         font-size: 17px;
         border-radius: 30px;
         text-align: center;
